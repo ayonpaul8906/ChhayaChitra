@@ -1,0 +1,100 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "A dramatic landscape for the hero section background.",
+      "imageUrl": "https://images.unsplash.com/photo-1739676882871-581221019daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkcmFtYXRpYyUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NTg2MDM3MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dramatic landscape"
+    },
+    {
+      "id": "photographer-portrait",
+      "description": "Portrait of the photographer for the about me section.",
+      "imageUrl": "https://images.unsplash.com/photo-1602481338939-8135c9727924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwaG90b2dyYXBoZXIlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg2NTU0MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "photographer portrait"
+    },
+    {
+      "id": "about-polaroid-1",
+      "description": "A scattered polaroid showing a city street.",
+      "imageUrl": "https://images.unsplash.com/photo-1634123431577-d448e438edb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaXR5JTIwc3RyZWV0fGVufDB8fHx8MTc1ODU4MjIzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city street"
+    },
+    {
+      "id": "about-polaroid-2",
+      "description": "A scattered polaroid with a nature detail.",
+      "imageUrl": "https://images.unsplash.com/photo-1742474561247-8de1bda6627c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bmF0dXJlJTIwZGV0YWlsfGVufDB8fHx8MTc1ODYzNDA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature detail"
+    },
+    {
+      "id": "about-camera",
+      "description": "A vintage camera on a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1516962126636-27ad087061cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2aW50YWdlJTIwY2FtZXJhfGVufDB8fHx8MTc1ODU4MjczM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage camera"
+    },
+    {
+      "id": "portfolio-wedding",
+      "description": "A beautiful shot of a wedding couple.",
+      "imageUrl": "/pic2.webp",
+      "imageHint": "wedding couple"
+    },
+    {
+      "id": "portfolio-fashion",
+      "description": "A high-fashion model posing.",
+      "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWx8ZW58MHx8fHwxNzU4NTk0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion model"
+    },
+    {
+      "id": "portfolio-wildlife",
+      "description": "A majestic lion in the wild.",
+      "imageUrl": "https://images.unsplash.com/photo-1716303249413-239a0340779b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3aWxkbGlmZSUyMGxpb258ZW58MHx8fHwxNzU4NjU1NDA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildlife lion"
+    },
+    {
+      "id": "portfolio-portrait",
+      "description": "A close-up portrait of a smiling person.",
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3J0cmFpdCUyMHNtaWxlfGVufDB8fHx8MTc1ODY1NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait smile"
+    },
+    {
+      "id": "portfolio-architecture",
+      "description": "Abstract shot of modern architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1575330734740-21b22ac7bf5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGFyY2hpdGVjdHVyZXxlbnwwfHx8fDE3NTg1OTIxNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract architecture"
+    },
+    {
+      "id": "portfolio-food",
+      "description": "Deliciously plated food.",
+      "imageUrl": "https://images.unsplash.com/photo-1554520735-0a6b8b6ce8b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmb29kJTIwcGhvdG9ncmFwaHl8ZW58MHx8fHwxNzU4NjMzNDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food photography"
+    },
+    {
+      "id": "portfolio-event",
+      "description": "Candid shot from a corporate event.",
+      "imageUrl": "https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb3Jwb3JhdGUlMjBldmVudHxlbnwwfHx8fDE3NTg1ODU1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "corporate event"
+    },
+    {
+      "id": "portfolio-product",
+      "description": "A sleek product shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1630872090564-4bd50c0101d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9kdWN0JTIwc2hvdHxlbnwwfHx8fDE3NTg2MDM3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product shot"
+    },
+    {
+      "id": "bts-before",
+      "description": "An unedited, behind-the-scenes shot.",
+      "imageUrl": "https://images.unsplash.com/photo-1669834574596-c9b8973bdd6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx1bmVkaXRlZCUyMHBob3RvfGVufDB8fHx8MTc1ODY1NTQwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "unedited photo"
+    },
+    {
+      "id": "bts-after",
+      "description": "The final, edited version of a photo.",
+      "imageUrl": "https://images.unsplash.com/photo-1669848872421-4ff83611de11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlZGl0ZWQlMjBwaG90b3xlbnwwfHx8fDE3NTg2NTU0MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "edited photo"
+    },
+    {
+      "id": "bts-setup",
+      "description": "A photo of the camera and lighting setup.",
+      "imageUrl": "https://images.unsplash.com/photo-1569949180306-3fa2159b4de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYW1lcmElMjBzZXR1cHxlbnwwfHx8fDE3NTg2NTQ2OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "camera setup"
+    }
+  ]
+}
