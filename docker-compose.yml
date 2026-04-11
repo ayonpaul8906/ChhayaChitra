@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  nextjs-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    # Load environment variables from a .env file
+    env_file:
+      - .env
+    # Restart the container if it stops unexpectedly
+    restart: unless-stopped
